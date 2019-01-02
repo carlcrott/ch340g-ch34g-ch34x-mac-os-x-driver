@@ -7,7 +7,9 @@
 Compatible driver for devices using the CH340G, CH34G or CH34X chipset. This chipset is used in several Arduino-clones.
 
 ## Introduction
-On uploading sketches to CH340G arduinos **OS X Yosemite** will crash. To resolve this issue, please download and install the driver in this repo.
+After having installed the brew / cask versions of the CH340G driver, on uploading sketches to CH340G arduinos **OS X Yosemite** will crash. 
+
+To resolve this issue, please download and install the driver in this repo.
 
 ## Installation
 
